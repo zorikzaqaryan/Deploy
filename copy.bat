@@ -1,0 +1,1 @@
+pscp.exe -i vqportal.ppk .\*.war ubuntu@54.187.10.92:/home/ubuntu/
